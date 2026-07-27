@@ -1,5 +1,3 @@
-// script.js
-
 const textarea = document.getElementById('memo');
 const countAll = document.getElementById('count-all');
 const countNoSpace = document.getElementById('count-no-space');
